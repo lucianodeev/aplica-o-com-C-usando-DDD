@@ -1,0 +1,9 @@
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.deps.json
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csprojAssemblyReference.cache
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfoInputs.cache
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfo.cs
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csproj.CoreCompileInputs.cache
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.dll
+c:\Users\lluci\Downloads\b808a33f-71ee-47de-91a3-be34b9637cf6\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.pdb

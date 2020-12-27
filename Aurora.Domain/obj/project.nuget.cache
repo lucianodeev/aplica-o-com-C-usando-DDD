@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "364CCtuZhhBLeInHtuc++hj6e8EaI1WEd4CbW1ymq6gv4wUlVtyjUOHHgKfNt5ItEzAb/YA13rd+SCtuWL8h+A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lluci\\Downloads\\b808a33f-71ee-47de-91a3-be34b9637cf6\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lluci\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
